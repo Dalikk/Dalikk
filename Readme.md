@@ -23,6 +23,7 @@ My skills include:
 - MongoDB
 - Microservices
 - Linux
+- bash
 - Docker
 - Cloud hosting
 
