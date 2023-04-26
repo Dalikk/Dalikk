@@ -25,6 +25,7 @@ My skills include:
 - Linux
 - bash
 - Docker
+- Docker compose
 - Cloud hosting
 
 ## Education
